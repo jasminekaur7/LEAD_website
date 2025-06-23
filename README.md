@@ -32,6 +32,5 @@ LEAD_official/
 ├── about.html           # About the society
 ├── events.html          # Events timeline
 ├── team.html            # Team member showcase
-├── contact.html         # Contact form or info
-├── styles/              # Custom CSS files
-└── README.md            # Project README
+└── styles/              # Custom CSS files
+README.md            # Project README
